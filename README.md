@@ -45,3 +45,10 @@ Like other AE our model also contains 3 sections i.e. encoder, bottleneck and de
     python -m pip install -r requirements.txt
     `
   3. Clone this repository into your local machine using the Gitbash `> git clone CLONEURL`
+  
+## Sample Outputs
+
+Some of the samples of input to the model and respective results is given below;
+
+![sample_outputs](imgs/Sample_Output_1.png) <br>
+![sample_outputs](imgs/Sample_Output_2.png)
